@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ActividadUnidad3DesarrolloDeApps</string>
+    <string name="login_button">Ingresar</string>
+    <string name="register_button">Registrarse</string>
+    <string name="login_title">Inicio de Sesión</string>
+    <string name="email_text">Digite su email</string>
+    <string name="password_text">Digite su contraseña</string>
+</resources>
